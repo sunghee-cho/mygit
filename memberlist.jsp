@@ -11,6 +11,7 @@
 <title>Insert title here</title>
 </head>
 <body>
+<h1>수정</h1>
 <!-- SpringMybatisController
 @RequestMapping("/membersearchlist")
 메소드(HttpServletRequest req)
