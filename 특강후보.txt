@@ -1,0 +1,5 @@
+jpa
+스프링 시큐리티
+redis / jwt
+자바스크립트 promise
+react axios-백엔드 연결
